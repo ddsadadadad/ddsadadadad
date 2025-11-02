@@ -55,7 +55,7 @@
 > “First, solve the problem. Then, write the code.”  
 > — *John Johnson*
 
-![Glitch Banner](https://i.imgur.com/rhZ4i6I.gif)
+![Matrix Rain](https://i.ibb.co/pP4tj6n/matrix-rain.gif)
 
 ---
 
