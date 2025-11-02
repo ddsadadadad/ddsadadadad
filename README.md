@@ -44,9 +44,9 @@
 
 ### 🧩 Проекты
 
-🔹 [**Project 1**](https://github.com/ТВОЙ_НИК/Project1) — умный backend, который думает быстрее, чем ты  
-🔹 [**Project 2**](https://github.com/ТВОЙ_НИК/Project2) — ML, который понимает хаос  
-🔹 [**Project 3**](https://github.com/ТВОЙ_НИК/Project3) — C++ + безопасность = 🔥
+🔹 [**Project 1**](https://github.com/ddsadadadad/voice_assistnat) - Голосовой помощник
+🔹 [**Project 2**](https://github.com/ddsadadadad/tfidf-similarity-analyzer-text) — ML, который анализирует текста на схожесть  
+🔹 [**Project 3**](https://github.com/ddsadadadad/flask_traning_app) - Backend, простой сайт для фитнеса
 
 ---
 
